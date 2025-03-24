@@ -89,7 +89,7 @@ Caso queira testar em outros ambientes, abaixo está a estrutua das requisiçõe
 ``` 
 
 - **Resposta:** Retorna um token de autenticação JWT
-### 3. ** POST /user/favorites** - Adicionar um personagem aos favoritos
+### 3. **POST /user/favorites** - Adicionar um personagem aos favoritos
 - **Body** (JSON):
 ```json
   {
