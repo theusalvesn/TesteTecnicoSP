@@ -62,14 +62,6 @@ PORT = Coloque aqui sua porta
 ```
 # Inicializar 
 
-Agora, basta executar o comando 
-```bash
-npm run build
-```
-
-
-
-
 Para rodar o projeto, execute npm start e verifique se está rodando !
 ```bash
 npm start 
