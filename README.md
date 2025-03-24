@@ -33,27 +33,43 @@ Este projeto tem como objetivo avaliar as habilidades de desenvolvimento de APIs
 Antes de rodar o sistema, certifique-se de ter o **Node.js** instalado em sua máquina. Se não tiver, instale a partir de [nodejs.org](https://nodejs.org/).
 
 # Instalação
-Clone o repositório para sua máquina:
+- Clone o repositório para sua máquina:
 ```bash
 https://github.com/theusalvesn/TesteTecnicoSP.git
 ```
-Navegue até o diretório do projeto:
+- Navegue até o diretório do projeto:
 
 ```bash
 cd TesteTecnicoSP
 ```
-Instale as dependências:
+- Instale as dependências:
 
 ```bash
 npm install
 ```
-Crie um arquivo .env e defina as variáveis de ambiente necessárias, 
+
+- Agora, basta executar o comando npm run build
+```bash
+npm run build
+```
+
+
+- Crie um arquivo .env e defina as variáveis de ambiente necessárias, 
 
 ```bash
 JWT_SECRET = Coloque aqui sua chave
 PORT = Coloque aqui sua porta
 ```
 # Inicializar 
+
+Agora, basta executar o comando 
+```bash
+npm run build
+```
+
+
+
+
 Para rodar o projeto, execute npm start e verifique se está rodando !
 ```bash
 npm start 
