@@ -133,7 +133,7 @@ Body (JSON):
 ## Banco de Dados 
 - Para o armazenamento dos dados é utilizado o SQLite, um banco de dados relacional.
 <img src="https://i.ibb.co/Csp9k92L/Captura-de-tela-2025-03-24-175313.png" alt="Imagem Diagrama ">
-- Como todas as informações dos personagens sao utlizadas na API do Rick and Morty, é necessario apenas salvar a relação entre o `id do usuário` e o `id do personagem` .
+- Como todas as informações dos personagens sao utlizadas na API do Rick and Morty, é necessario apenas salvar a relação entre o `id` do usuário e o `id` do personagem .
 
 
 
